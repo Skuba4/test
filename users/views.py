@@ -6,6 +6,6 @@ class Home(TemplateView):
     template_name = 'users/home.html'
 
 
-class Name_test:
+class Name_test_333:
     """ДОБАВИЛ ДРУГОЙ ПОЛЬЗОВАТЕЛЬ"""
     pass
