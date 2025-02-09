@@ -8,3 +8,8 @@ class Home(TemplateView):
 
 class Name_1:
     pass
+
+
+class Name_2:
+    """ИМИТИРУЮ ФИЧУ ДЛЯ ПРОВЕРКИ МАСТЕРОМ"""
+    pass
