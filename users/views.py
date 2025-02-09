@@ -20,6 +20,6 @@ class Name_3:
     pass
 
 
-class Name_4:
+class Name_33:
     """ДОБАВИЛ ДРУГОЙ ПОЛЬЗОВАТЕЛЬ"""
     pass
