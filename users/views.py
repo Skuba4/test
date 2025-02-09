@@ -6,20 +6,6 @@ class Home(TemplateView):
     template_name = 'users/home.html'
 
 
-class Name_1:
-    pass
-
-
-class Name_2:
-    """ИМИТИРУЮ ФИЧУ ДЛЯ ПРОВЕРКИ МАСТЕРОМ"""
-    pass
-
-
-class Name_3:
-    """ДОБАВИЛ ДРУГОЙ ПОЛЬЗОВАТЕЛЬ"""
-    pass
-
-
-class Name_33:
+class Name_test:
     """ДОБАВИЛ ДРУГОЙ ПОЛЬЗОВАТЕЛЬ"""
     pass
