@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.idea/
+.venv
+
+downloads/*
+!downloads/.gitkeep
+
+.env
+
+session_reklama.br.json
