@@ -15,7 +15,7 @@ class Status(StatesGroup):
 async def start_handler(message: Message, state: FSMContext):
     await state.set_state(Status.st)
     print(message.text)
-    await message.answer(f"Начинаю работать")
+    await message.answer(f"Instagram, TikTok, YouTube и VK")
 
 
 @router.message(Command("stop"))
